@@ -1,0 +1,4 @@
+Dependencies for Project 'Velocista', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4D9B9790)(--device DARMP -g --apcs=interwork -I "C:\Keil\ARM\INC\Philips" --list "Startup.lst" --xref -o Startup.o)
+F (.\Velocista.c)(0x4DB97558)(-c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -o "velocista.o")
+I (C:\KEIL\ARM\INC\PHILIPS\LPC213X.H)(0x444755F6)
