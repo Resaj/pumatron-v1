@@ -1,7 +1,7 @@
 # Pumatrón V1
 Pumatrón es mi primer robot de competición. Participó entre 2011 y 2013 en numerosas pruebas, como Alcabot, Cybertech, Robolid...
 
-Se trata de un robot modular y autosoportado, capaz de adaptarse fácilmente a diferentes pruebas como rastreadores, velocistas, laberinto...
+Se trata de un robot modular y autosoportado, capaz de adaptarse fácilmente a las pruebas de rastreadores, velocistas y laberinto.
 
 <p align="center">
 <img src="images/V1.2/Foto0092.jpg" width="400" align = "center">
